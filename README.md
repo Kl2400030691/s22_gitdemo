@@ -1,4 +1,17 @@
+Microsoft Windows [Version 10.0.26200.7309]
+(c) Microsoft Corporation. All rights reserved.
 
+C:\Users\Koushik\OneDrive\Desktop\FSD>git --version
+git version 2.48.1.windows.1
+
+C:\Users\Koushik\OneDrive\Desktop\FSD>git init
+Initialized empty Git repository in C:/Users/Koushik/OneDrive/Desktop/FSD/.git/
+
+C:\Users\Koushik\OneDrive\Desktop\FSD>ls
+'ls' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\Koushik\OneDrive\Desktop\FSD>git config --global user.na
 C:\Users\Koushik\OneDrive\Desktop\FSD>git config --global user.name:"Koushik"
 error: invalid key: user.name:Koushik
 
